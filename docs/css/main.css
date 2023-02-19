@@ -142,6 +142,10 @@ nav a:hover {
     font-size: 2em;
 }
 
+header h1 small {
+  color: var(--main-accent-color);
+}
+
 .main aside {
     color: var(--contrast-text-color);
     padding: 0px 5% 10px;
